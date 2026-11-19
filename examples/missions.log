@@ -1,0 +1,6 @@
+# ID | Program | Destination | Status | Start | Duration in days | Crew | Public demo token
+ A-01 | Demo | Mars | Completed | 2035-03-01 | 124 | 3 | EXAMPLE-SHORT
+ A-02 | Demo | Mars | In progress | 2035-04-10 | 999 | 3 | EXAMPLE-PENDING
+ A-03 | Demo | Europa | Completed | 2035-01-01 | 612 | 4 | EXAMPLE-EUROPA
+ A-04 | Demo | Mars | Completed | 2035-06-01 | 290 | 5 | EXAMPLE-LONG
+ malformed
